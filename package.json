@@ -1,0 +1,19 @@
+{
+  "name": "@fkxxyz-hello/npm-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkxxyz/npm-hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkxxyz/npm-hello/issues"
+  },
+  "homepage": "https://github.com/fkxxyz/npm-hello#readme"
+}
